@@ -28,6 +28,7 @@ Misc/vq_pak/mkpak
 Misc/vq_pak/bintoc
 Misc/vq_pak/*.dSYM
 build/
+id1/
 .settings
 .project
 .cproject
